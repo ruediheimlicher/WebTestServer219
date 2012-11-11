@@ -1,0 +1,1 @@
+//status.c#define TEST   1#define TESTSERVER   1#define TESTIP  219static uint8_t macaddress[6] = {0x52,0x48,0x34,0x37,0x30,0x33};static uint8_t serverip[4] = {192,168,1,219};static uint8_t hostport = 82;
